@@ -3,42 +3,34 @@ My E-Canvas
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Weird Alchemy 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Solo(no team name)
 
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+### Member
+- Lead: Adith.C.A - Marian Engineering college
 
 ### Project Description
-[2-3 lines about what your project does]
+What my project does is mix unrelated things into delicious dishes 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+To use all availble tangible and non tangible ingredient
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+i made a recipe generator by using the ingredients as input
 
-## Technical Details
+## Technical Detail1s
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html,css,javascript
+- Notepad
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
+For Software:internet browser
 # Installation
 [commands]
 
@@ -46,7 +38,7 @@ For Software:
 [commands]
 
 ### Project Documentation
-For Software:
+For Software:github
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -85,14 +77,6 @@ For Hardware:
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
