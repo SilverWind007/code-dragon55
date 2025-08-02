@@ -31,18 +31,16 @@ For Software:
 
 ### Implementation
 For Software:internet browser
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:github
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Add caption explaining what this <img width="1855" height="845" alt="Screenshot 2025-08-02 135042" src="https://github.com/user-attachments/assets/948d072d-0337-40ce-bc47-34b4fbe67ffe" />
+<img width="1868" height="838" alt="Screenshot 2025-08-02 135028" src="https://github.com/user-attachments/assets/1ae00700-70ac-4eac-8c5e-199842bd20c6" />
+<img width="1905" height="857" alt="Screenshot 2025-08-02 135017" src="https://github.com/user-attachments/assets/74949b76-78e9-4e5f-9f55-2e7bdbd06286" />
+shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -50,33 +48,6 @@ For Software:github
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
