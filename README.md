@@ -36,17 +36,18 @@ For Software:internet browser
 For Software:github
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1] final output
 *Add caption explaining what this <img width="1855" height="845" alt="Screenshot 2025-08-02 135042" src="https://github.com/user-attachments/assets/948d072d-0337-40ce-bc47-34b4fbe67ffe" />
-<img width="1868" height="838" alt="Screenshot 2025-08-02 135028" src="https://github.com/user-attachments/assets/1ae00700-70ac-4eac-8c5e-199842bd20c6" />
+
 <img width="1905" height="857" alt="Screenshot 2025-08-02 135017" src="https://github.com/user-attachments/assets/74949b76-78e9-4e5f-9f55-2e7bdbd06286" />
-shows*
+prompting the generator
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]<img width="1905" height="857" alt="Screenshot 2025-08-02 135017" src="https://github.com/user-attachments/assets/74949b76-78e9-4e5f-9f55-2e7bdbd06286" />
+prompting the generator
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]<img width="1868" height="838" alt="Screenshot 2025-08-02 135028" src="https://github.com/user-attachments/assets/1ae00700-70ac-4eac-8c5e-199842bd20c6" />
+
+input/initial screen
 
 
 ---
